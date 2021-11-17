@@ -4,6 +4,9 @@ import "./style.css";
 const UseEffect = () => {
   const [myNum, setMyNum] = useState(0);
 
+  React.useEffect(() => {
+    document.title = `Chats(${myNum})`;
+  });
   return (
     <>
       <div className="center_div">
