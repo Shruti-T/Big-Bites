@@ -4,7 +4,7 @@ const Menu = [
     image: "images/sandwitch.jpg",
     name: "Sandwich",
     category: "breakfast",
-    price: "12₹",
+    price: "30₹",
     description:
       "Crumbed cottage cheese with sweet and tangy flavours of tamarind, mint and spices packed between bread slices and toasted till golden. Serve with fresh homemade salsa. ",
   },
@@ -14,16 +14,16 @@ const Menu = [
     image: "images/allupakoida.jpg",
     name: "allu pakoida",
     category: "evening",
-    price: "20₹",
+    price: "45₹",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "Buy hot mouthwatering pakoras sandwiched in Pav, drizzled with green chutney, tamarind chutney, and garlic red chili chutney. ",
   },
   {
     id: 3,
     image: "images/cornDish.png",
     name: "corn",
     category: "breakfast",
-    price: "10₹",
+    price: "15₹",
     description:
       "A healthy, nutritious snack with a spicy and tangy bit of flavour, Thai Charcoal Roasted Corn recipe is a different version of the famous Indian 'Bhutta' that we love to have during the Monsoon season. ",
   },
@@ -32,54 +32,54 @@ const Menu = [
     image: "../images/chola.jpg",
     name: "chola",
     category: "lunch",
-    price: "50₹",
+    price: "80₹",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "An authentic North Indian style curry made with white chickpeas, freshly powdered spices, onions, tomatoes and herbs.",
   },
   {
     id: 5,
     image: "../images/pizza.jpg",
     name: "pizza",
     category: "evening",
-    price: "80₹",
+    price: "120₹",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "Topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients ",
   },
   {
     id: 6,
-    image: "../images/nonvegthali.jpg",
-    name: "Non-Veg Thali",
+    image: "../images/vegthali.jpg",
+    name: "Veg Thali",
     category: "dinner",
     price: "180₹",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "Typical dishes include rice, dal, vegetables, roti, papad, dahi (yogurt), small amounts of chutney or pickle, and a sweet dish to top it off.",
   },
   {
     id: 7,
     image: "../images/sweet.jpg",
     name: "Sweets",
     category: "dinner",
-    price: "60₹",
+    price: "90₹",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "Assorted sweets made from best goanese cashews, coconut barfi and besan barfi with the right amount of sweetness.",
   },
   {
     id: 8,
     image: "../images/rajmarice.jpg",
     name: "Rajma Rice",
     category: "lunch",
-    price: "60₹",
+    price: "75₹",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "This Rajma recipe is a lightly spiced, creamy and delicious Punjabi style curry made with protein rich kidney beans, aromatics like onions, ginger, garlic, fragrant spices and tangy tomatoes.",
   },
   {
     id: 9,
     image: "../images/samosa.jpg",
     name: "samaso",
     category: "evening",
-    price: "10₹",
+    price: "15₹",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "Flaky and crunchy fried samosa are one of the most popular street food snack in North Indian cuisine. They feature a pastry-like crust but are filled with savory potatoes and peas for a hearty, delicious snack. ",
   },
 ];
 
