@@ -1,12 +1,12 @@
 const Menu = [
   {
     id: 1,
-    image: "images/maggi.jpg",
-    name: "maggi",
+    image: "images/sandwitch.jpg",
+    name: "Sandwich",
     category: "breakfast",
     price: "12₹",
     description:
-      "I love Maggi realy oo yues  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "Crumbed cottage cheese with sweet and tangy flavours of tamarind, mint and spices packed between bread slices and toasted till golden. Serve with fresh homemade salsa. ",
   },
 
   {
