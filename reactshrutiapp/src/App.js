@@ -1,14 +1,14 @@
 import React from "react";
-// import Restaurant from "./component/basics/Restaurant";
+import Restaurant from "./component/basics/Restaurant";
 // import UseState from "./component/Hooks/UseState";
 // import UseEffect from "./component/Hooks/UseEffect";
-import UseReducer from "./component/Hooks/UseReducer";
+// import UseReducer from "./component/Hooks/UseReducer";
 
 const App = () => {
-  // return <Restaurant />;
+  return <Restaurant />;
   // return <UseState />;
   // return <UseEffect />;
-  return <UseReducer />;
+  // return <UseReducer />;
 };
 
 export default App;
