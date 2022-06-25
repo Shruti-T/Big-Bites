@@ -25,7 +25,7 @@ const Menu = [
     category: "breakfast",
     price: "10₹",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "A healthy, nutritious snack with a spicy and tangy bit of flavour, Thai Charcoal Roasted Corn recipe is a different version of the famous Indian 'Bhutta' that we love to have during the Monsoon season. ",
   },
   {
     id: 4,
